@@ -1,0 +1,19 @@
+Opdracht 2 - Queue patterns (5pt.)
+
+Maak een schema van het systeem dat je in deze opdracht gerealiseerd hebt
+en geef hierbij aan waar point-to-point of publish-subscribe gebruikt wordt als pattern.
+Neem hierbij ook de niet uitgevoerde onderdelen die in de opdracht genoemd worden mee
+(logger, tijdservice en webapplicaties).
+Zijn er nog andere patterns die genoemd worden op de site Enterprise integration patterns die gebruikt worden in je flow?
+Geef bij het schema een korte beschrijving.
+
+Opdracht 3 - Queue patterns (5pt.)
+
+Geef een voorbeeld van een berichten systeem waarbij je een Point-to-Point pattern zou gebruiken.
+En hetzelfde voor een Publish-Subscribe pattern.
+Denk hierbij aan de karakteristieken van zo'n verbinding met betrekking tot afleveringsgarantie, aantal ontvangers, etc.
+
+Opdracht 4 - Queues en loadbalancing (5pt.)
+
+Hoe kun je Queues gebruiken om loadbalancing te realiseren en welk pattern gebruik je daarbij?
+Welk specifiek probleem dat vraagt om loadbalancing los je hiermee op en kun je een situatie bedenken waarbij deze oplossing niet werkt?
